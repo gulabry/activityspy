@@ -1,0 +1,12 @@
+--------- beginning of main
+--------- beginning of system
+I/SpyActivity( 1906): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=activityspy.gulabry.washington.edu.activityspy/.MainActivity }
+I/SpyActivity( 1906): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=activityspy.gulabry.washington.edu.activityspy/.MainActivity }
+I/SpyActivity( 1906): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=activityspy.gulabry.washington.edu.activityspy/.MainActivity }
+I/SpyActivity( 1906): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=activityspy.gulabry.washington.edu.activityspy/.MainActivity }
+I/SpyActivity( 1906): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=activityspy.gulabry.washington.edu.activityspy/.MainActivity }
+I/SpyActivity( 1906): onDestroy event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=activityspy.gulabry.washington.edu.activityspy/.MainActivity }
+E/SpyActivity( 1906): We're going down, Captain!
+I/SpyActivity( 1906): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=activityspy.gulabry.washington.edu.activityspy/.MainActivity }
+I/SpyActivity( 1906): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=activityspy.gulabry.washington.edu.activityspy/.MainActivity }
+I/SpyActivity( 1906): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=activityspy.gulabry.washington.edu.activityspy/.MainActivity }
